@@ -17,5 +17,5 @@ Enter the project effort estimate here, including an estimated delivery time.  N
 Enter the pledge goal here.  Include information regarding the pledge amount.
   
 ### Pledge to this project
-Send an e-mail to [FMAY](mailto:travis.london@gmail.com) to pledge.
+Send an e-mail to [FMAY](mailto:travis.london@fmay.net) to pledge.
   
