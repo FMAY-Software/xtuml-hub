@@ -17,10 +17,5 @@ Enter the project effort estimate here, including an estimated delivery time.  N
 Enter the pledge goal here.  Include information regarding the pledge amount.
   
 ### Pledge to this project
-Send an e-mail to [FMAY](mailto:travis.london@gmail.com) to pledge.  
-  
-Pledge status:  
-  
-![progress](http://progressed.io/bar/0 "progress")
-
+Send an e-mail to [FMAY](mailto:travis.london@gmail.com) to pledge.
   
