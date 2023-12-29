@@ -1,0 +1,6 @@
+[submodule "clients/xtuml-hub-client"]
+	path = clients/xtuml-hub-client
+	url = git@github.com:FMAY-Software/xtuml-hub-client.git
+[submodule "services/xhub-artifacts"]
+	path = services/xhub-artifacts
+	url = git@github.com:FMAY-Software/xhub-artifacts.git
